@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newman-afk" alt="newman-afk" /></a> </p>
 
+- 🌱 I’m currently learning **sql**
+
+- 👨‍💻 All of my projects are available at [https://rust-portfolio.netlify.app](https://rust-portfolio.netlify.app)
+
+- 💬 Ask me about **react**
+
+- 📫 How to reach me **hebaorongliyaohui@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
